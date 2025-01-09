@@ -33,3 +33,6 @@ This project explores the fine-tuning of pre-trained convolutional neural networ
 ## Future Work
 - Explore different LoRA configurations and hyperparameters.
 - Investigate other fine-tuning techniques and model architectures to improve performance.
+
+- ## Dataset Link
+- [Galaxy Zoo Dataset](https://www.kaggle.com/competitions/galaxy-zoo-the-galaxy-challenge/data) 
