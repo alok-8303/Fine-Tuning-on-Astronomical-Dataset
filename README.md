@@ -4,6 +4,8 @@ This project explores the fine-tuning of pre-trained convolutional neural networ
 
 ## Features
 - **Dataset**: Galaxy Zoo dataset, containing labeled galaxy images.
+-  **Dataset Link**:  [Galaxy Zoo Dataset](https://www.kaggle.com/competitions/galaxy-zoo-the-galaxy-challenge/data) 
+
 - **Model Architecture**: ResNet18 pre-trained CNN, modified and fine-tuned for galaxy classification.
 - **Techniques**:
   - Data augmentation (flipping, rotation, resizing) to increase training diversity.
@@ -33,6 +35,3 @@ This project explores the fine-tuning of pre-trained convolutional neural networ
 ## Future Work
 - Explore different LoRA configurations and hyperparameters.
 - Investigate other fine-tuning techniques and model architectures to improve performance.
-
-- ## Dataset Link
-- [Galaxy Zoo Dataset](https://www.kaggle.com/competitions/galaxy-zoo-the-galaxy-challenge/data) 
